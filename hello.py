@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Hello to the world from ev3dev.org'''
+'''Initial Commit Test'''
 
 import os
 import sys
